@@ -48,4 +48,4 @@ Address error handling and potential improvements:
 Enhanced error handling and logging.
 Improved input validation to prevent SQL injection.
 More robust and user-friendly interface.
-Modularizing code further for better readability and maintenance.".
+Modularizing code further for better readability and maintenance."
